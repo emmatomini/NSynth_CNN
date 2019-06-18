@@ -1,0 +1,3 @@
+NSynth Classification
+
+The objective of this project is to classify wave files from the NSynth dataset based on their instrument family using a CNN.  See notebook fo implementation and references.
